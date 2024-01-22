@@ -7,6 +7,11 @@ This template should help get you started developing with Vue 3 in Vite.
 - First try on server = correct pin ; cannot change pin
 - Can withdraw and deposit at same time 
 
+## Clone 
+- Click "code <>" and copy the HTTPS link 
+- Locally, navigate to root directory you want to clone in
+- Paste "git clone LINK" except with LINK substituted for the previously copied HTTPS link 
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
