@@ -11,6 +11,8 @@ function checkPin(){
     
     if(Number(input_pin) === pin){
         correct.value = true; 
+    }else{
+        alert("Wrong pin");
     }
 }
 let correct = ref(false);
